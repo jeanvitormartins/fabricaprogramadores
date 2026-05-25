@@ -35,15 +35,9 @@ Agora o jogo ficou sério! Estou aplicando toda a minha base lógica na linguage
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Linguagem Principal:** Python 3
-* **IDE Utilizada:** PyCharm (JetBrains)
+* **IDE Utilizada:** VisualCode
 * **Controle de Versão:** Git & GitHub (Gerenciamento de commits, pushes e resolução de conflitos de sincronização)
 
 ---
 
-## 📈 Próximos Passos
-- [ ] Dominar a estrutura de repetição `for` e manipulação de listas.
-- [ ] Criar meus primeiros scripts automatizados para web.
-- [ ] Iniciar estudos em funções para modularizar meus códigos.
-
----
 *Estudando e evoluindo um commit de cada vez. 🚀*
