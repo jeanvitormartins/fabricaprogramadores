@@ -1,10 +1,11 @@
 # fabricaprogramadores
-Projetos realizados pelo curso da fabrica de programadores (SENAI) 2026
 # 🚀 Minha Jornada na Programação: Da Lógica ao Python
 
-Bem-vindo ao meu repositório de estudos! Aqui estão reunidos os meus primeiros passos no mundo do desenvolvimento de software. Este espaço funciona como um portfólio da minha evolução técnica, documentando desde os conceitos fundamentais de lógica até a criação de scripts automatizados.
+![Wallpaper de Programação](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8ed64f22-0449-4691-b4cb-6a6144bf7a23" />
+)
 
----
+Bem-vindo ao meu repositório de estudos! Aqui estão reunidos os meus primeiros passos no mundo do desenvolvimento de software...
+Projetos realizados pelo curso da fabrica de programadores (SENAI) 2026
 
 ## 🧠 O Que Eu Já Aprendi Até Agora
 
