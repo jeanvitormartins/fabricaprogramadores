@@ -1,7 +1,7 @@
 # fabricaprogramadores
 # 🚀 Minha Jornada na Programação: Da Lógica ao Python
 
-![Wallpaper de Programação](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8ed64f22-0449-4691-b4cb-6a6144bf7a23" />
+![Wallpaper de Programação](<img width="1280" height="720" alt="16019" src="https://github.com/user-attachments/assets/541af6f8-dbef-4d54-8ec7-5dba8bdee82c" />
 )
 
 Bem-vindo ao meu repositório de estudos! Aqui estão reunidos os meus primeiros passos no mundo do desenvolvimento de software...
